@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Remove all the custom CSS variables for now to simplify */
+body {
+  margin: 0;
+  padding: 0;
+}
