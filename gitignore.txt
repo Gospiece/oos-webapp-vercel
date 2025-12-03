@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.next/
+
+# Environment Variables
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+out/ 
+
+# Debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+.DS_Store
+*.pem
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System 
+Thumbs.db
